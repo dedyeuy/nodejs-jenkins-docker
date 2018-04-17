@@ -17,4 +17,10 @@
 	  "profession" : "Gold Sponsor",
 	  "id": 3
    }
+   "user4" : {
+      "name" : "bungded",
+	  "password" : "password3",
+	  "profession" : "kuli",
+	  "id": 4
+   }
 }
