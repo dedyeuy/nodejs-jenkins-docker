@@ -29,4 +29,10 @@
 	  "profession" : "manager",
 	  "id": 4
    }
+"user6" : {
+      "name" : "afgan",
+	  "password" : "password3",
+	  "profession" : "manager",
+	  "id": 4
+   }
 }
