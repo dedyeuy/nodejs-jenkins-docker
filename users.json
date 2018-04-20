@@ -35,4 +35,11 @@
 	  "profession" : "manager",
 	  "id": 4
    }
+"user7" : {
+      "name" : "pri",
+	  "password" : "password3",
+	  "profession" : "manager",
+	  "id": 4
+   }
+
 }
