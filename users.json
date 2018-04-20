@@ -23,4 +23,10 @@
 	  "profession" : "manager",
 	  "id": 4
    }
+   "user5" : {
+      "name" : "wahyu",
+	  "password" : "password3",
+	  "profession" : "manager",
+	  "id": 4
+   }
 }
